@@ -9,6 +9,7 @@
 ![shop-use banner](./assets/banner-home.svg)
 
 [![Website](https://img.shields.io/badge/Website-shop--use.cn-111827?style=for-the-badge)](https://shop-use.cn)
+[![Demo](https://img.shields.io/badge/Demo-demo.shop--use.cn-2563EB?style=for-the-badge)](https://demo.shop-use.cn)
 [![Private Deploy](https://img.shields.io/badge/Private%20Deploy-Supported-10B981?style=for-the-badge)](https://shop-use.cn)
 [![Custom Build](https://img.shields.io/badge/Custom%20Build-Available-F97316?style=for-the-badge)](https://shop-use.cn)
 
@@ -17,6 +18,21 @@
 让电商团队从“手动操作后台”升级为“目标驱动的自动执行”。
 
 它适用于 Shopify、TikTok Shop、Amazon、Shopee、Lazada、WooCommerce 等电商平台，也适合需要店群管理、站群管理、IM 统一管理、商品上架自动化、客服自动化、广告分析和库存管理的团队。
+
+## 直接体验
+
+- 在线 Demo：**[demo.shop-use.cn](https://demo.shop-use.cn)**
+- 官网了解更多：**[shop-use.cn](https://shop-use.cn)**
+- 企业合作：私有化部署、定制开发、平台对接、行业方案共创
+
+## Demo 可体验什么
+
+- 店群和站群统一管理视图
+- IM 消息聚合与客服协同处理
+- 自动寻源与找品分析
+- 商品标题、卖点、详情页和 SEO 文案生成
+- 上架资料整理与批量执行流程
+- 广告、库存、经营数据复盘
 
 ## 核心能力
 
@@ -119,6 +135,7 @@
 ## 进入方式
 
 - 官网：**[shop-use.cn](https://shop-use.cn)**
+- 在线体验：**[demo.shop-use.cn](https://demo.shop-use.cn)**
 - 合作：私有化部署、定制开发、平台对接、行业方案共创
 
 <details>
@@ -170,6 +187,14 @@
 ### 可以私有化部署吗？
 
 可以。`shop-use` 支持私有化部署、企业定制开发、内网环境接入和业务流程定制。
+
+### 可以做定制开发吗？
+
+可以。我们可以按你的业务流程定制 Agent Skill、审批流、平台连接器、数据看板和执行策略。
+
+### 适合做什么类型的项目？
+
+适合店群管理系统、站群管理工具、IM 统一管理系统、跨境电商自动化中台、商品上架自动化、客服自动化、广告分析和库存管理项目。
 
 ### 适合什么类型团队？
 
