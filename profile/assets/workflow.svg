@@ -1,0 +1,53 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="80" y1="30" x2="1120" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF8EE"/>
+      <stop offset="1" stop-color="#F4FBF7"/>
+    </linearGradient>
+    <linearGradient id="line" x1="160" y1="210" x2="1040" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FB923C"/>
+      <stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" rx="32" fill="url(#bg2)"/>
+  <text x="70" y="66" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">从目标到执行</text>
+  <text x="70" y="98" fill="#64748B" font-family="Inter, Arial, sans-serif" font-size="18">shop-use 把运营动作拆成可控、可审计、可复盘的工作流</text>
+  <path d="M170 210H1030" stroke="url(#line)" stroke-width="10" stroke-linecap="round" stroke-dasharray="2 18"/>
+  <g>
+    <rect x="90" y="152" width="160" height="116" rx="24" fill="#FFFFFF" stroke="#FED7AA"/>
+    <circle cx="130" cy="190" r="18" fill="#FDBA74"/>
+    <rect x="166" y="176" width="56" height="14" rx="7" fill="#F97316"/>
+    <rect x="166" y="202" width="70" height="12" rx="6" fill="#FDBA74"/>
+    <rect x="166" y="226" width="52" height="12" rx="6" fill="#FDBA74"/>
+    <text x="108" y="142" fill="#9A3412" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700">目标</text>
+  </g>
+  <g>
+    <rect x="330" y="130" width="190" height="160" rx="28" fill="#FFFFFF" stroke="#BFDBFE"/>
+    <rect x="358" y="162" width="134" height="16" rx="8" fill="#2563EB"/>
+    <rect x="358" y="190" width="112" height="12" rx="6" fill="#93C5FD"/>
+    <rect x="358" y="214" width="146" height="12" rx="6" fill="#93C5FD"/>
+    <rect x="358" y="246" width="96" height="36" rx="18" fill="#2563EB"/>
+    <text x="348" y="118" fill="#1D4ED8" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700">Agent 拆解</text>
+  </g>
+  <g>
+    <rect x="570" y="136" width="160" height="148" rx="28" fill="#FFFFFF" stroke="#A7F3D0"/>
+    <rect x="600" y="166" width="96" height="16" rx="8" fill="#10B981"/>
+    <rect x="600" y="194" width="72" height="12" rx="6" fill="#6EE7B7"/>
+    <rect x="600" y="218" width="110" height="12" rx="6" fill="#6EE7B7"/>
+    <rect x="600" y="248" width="68" height="34" rx="17" fill="#10B981"/>
+    <text x="590" y="124" fill="#047857" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700">工具执行</text>
+  </g>
+  <g>
+    <rect x="780" y="130" width="190" height="160" rx="28" fill="#FFFFFF" stroke="#E9D5FF"/>
+    <rect x="810" y="162" width="134" height="16" rx="8" fill="#A855F7"/>
+    <rect x="810" y="190" width="112" height="12" rx="6" fill="#D8B4FE"/>
+    <rect x="810" y="214" width="146" height="12" rx="6" fill="#D8B4FE"/>
+    <rect x="810" y="246" width="96" height="36" rx="18" fill="#A855F7"/>
+    <text x="800" y="118" fill="#7E22CE" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700">审核与留痕</text>
+  </g>
+  <g>
+    <rect x="1020" y="152" width="130" height="116" rx="24" fill="#FFFFFF" stroke="#FED7AA"/>
+    <path d="M1060 214L1081 234L1112 194" stroke="#10B981" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="1036" y="142" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700">结果</text>
+  </g>
+</svg>

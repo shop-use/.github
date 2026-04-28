@@ -1,0 +1,28 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="60" y1="30" x2="1140" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#FFF7ED"/>
+    </linearGradient>
+    <linearGradient id="shield" x1="470" y1="90" x2="730" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F766E"/>
+      <stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="32" fill="url(#bg3)"/>
+  <text x="70" y="66" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">可控、可审计、可私有化</text>
+  <text x="70" y="98" fill="#64748B" font-family="Inter, Arial, sans-serif" font-size="18">面向企业级店铺运营的权限、审批和执行留痕设计</text>
+  <path d="M600 70C650 92 702 102 748 110V176C748 238 689 282 600 300C511 282 452 238 452 176V110C498 102 550 92 600 70Z" fill="url(#shield)"/>
+  <path d="M600 112C618 121 641 126 664 130V168C664 201 636 225 600 236C564 225 536 201 536 168V130C559 126 582 121 600 112Z" fill="#ECFDF5" opacity="0.95"/>
+  <path d="M566 173L592 198L640 150" stroke="#10B981" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="160" y="150" width="210" height="74" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <circle cx="196" cy="187" r="14" fill="#F59E0B"/>
+  <rect x="224" y="173" width="112" height="12" rx="6" fill="#F59E0B"/>
+  <rect x="224" y="195" width="84" height="10" rx="5" fill="#FCD34D"/>
+  <rect x="842" y="150" width="210" height="74" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <circle cx="878" cy="187" r="14" fill="#2563EB"/>
+  <rect x="906" y="173" width="112" height="12" rx="6" fill="#2563EB"/>
+  <rect x="906" y="195" width="84" height="10" rx="5" fill="#93C5FD"/>
+  <rect x="430" y="266" width="340" height="24" rx="12" fill="#E2E8F0"/>
+  <rect x="430" y="266" width="220" height="24" rx="12" fill="#F97316"/>
+</svg>

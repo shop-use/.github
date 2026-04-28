@@ -1,0 +1,42 @@
+<svg width="1200" height="460" viewBox="0 0 1200 460" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg4" x1="60" y1="20" x2="1140" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FFF7ED"/>
+    </linearGradient>
+    <linearGradient id="agent" x1="120" y1="110" x2="520" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F766E"/>
+      <stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
+    <linearGradient id="legacy" x1="680" y1="110" x2="1080" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#334155"/>
+      <stop offset="1" stop-color="#64748B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="460" rx="32" fill="url(#bg4)"/>
+  <text x="70" y="66" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">Agent 产品 vs 传统产品</text>
+  <text x="70" y="98" fill="#64748B" font-family="Inter, Arial, sans-serif" font-size="18">shop-use 不是功能集合，而是会推动任务完成的运营系统</text>
+
+  <rect x="70" y="132" width="500" height="270" rx="28" fill="#ECFDF5" stroke="#A7F3D0"/>
+  <rect x="630" y="132" width="500" height="270" rx="28" fill="#F8FAFC" stroke="#CBD5E1"/>
+
+  <rect x="100" y="162" width="136" height="34" rx="17" fill="url(#agent)"/>
+  <text x="125" y="185" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Agent 产品</text>
+  <rect x="660" y="162" width="136" height="34" rx="17" fill="url(#legacy)"/>
+  <text x="685" y="185" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">传统产品</text>
+
+  <text x="100" y="232" fill="#065F46" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">输入目标</text>
+  <text x="100" y="268" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="18">“帮我找品、设计、写文案、上架并运行”</text>
+  <text x="100" y="308" fill="#065F46" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">系统动作</text>
+  <text x="100" y="344" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="18">自动拆解、调用工具、执行、留痕、复盘</text>
+
+  <text x="660" y="232" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">输入功能</text>
+  <text x="660" y="268" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="18">“先点这个，再填那个，再切换页面”</text>
+  <text x="660" y="308" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">用户负担</text>
+  <text x="660" y="344" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="18">自己理解流程、自己做判断、自己推进结果</text>
+
+  <path d="M420 400C470 396 515 388 530 378" stroke="#10B981" stroke-width="8" stroke-linecap="round"/>
+  <path d="M530 378L518 379L523 390" stroke="#10B981" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M980 400C930 396 885 388 870 378" stroke="#64748B" stroke-width="8" stroke-linecap="round"/>
+  <path d="M870 378L882 379L877 390" stroke="#64748B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

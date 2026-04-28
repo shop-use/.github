@@ -1,0 +1,89 @@
+<svg width="1600" height="700" viewBox="0 0 1600 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="90" y1="50" x2="1510" y2="650" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF8EE"/>
+      <stop offset="0.52" stop-color="#F4FBF7"/>
+      <stop offset="1" stop-color="#EFF6FF"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="330" y1="120" x2="1270" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F8FAFC"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="390" y1="180" x2="730" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F97316"/>
+      <stop offset="1" stop-color="#FB923C"/>
+    </linearGradient>
+    <linearGradient id="accent2" x1="880" y1="170" x2="1230" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F766E"/>
+      <stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
+    <linearGradient id="accent3" x1="1120" y1="180" x2="1410" y2="540" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="1600" height="700" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="28" stdDeviation="34" flood-color="#0F172A" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="700" rx="44" fill="url(#bg)"/>
+  <circle cx="150" cy="130" r="92" fill="#FFE4D1"/>
+  <circle cx="1420" cy="120" r="110" fill="#DCFCE7"/>
+  <circle cx="1380" cy="590" r="140" fill="#DBEAFE"/>
+  <circle cx="240" cy="610" r="120" fill="#FDE68A"/>
+
+  <g filter="url(#shadow)">
+    <rect x="130" y="96" width="1340" height="508" rx="36" fill="url(#panel)" stroke="#E5E7EB"/>
+  </g>
+
+  <rect x="172" y="136" width="128" height="46" rx="16" fill="#111827"/>
+  <text x="194" y="166" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">shop-use</text>
+
+  <text x="172" y="250" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="800">电商运营，不再只靠人盯后台</text>
+  <text x="172" y="308" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="500">
+    让 Agent 接管店群、站群、IM、找品、设计、文案、上架、运营和复盘
+  </text>
+
+  <g>
+    <rect x="172" y="364" width="278" height="116" rx="26" fill="#FFF7ED" stroke="#FDBA74"/>
+    <text x="202" y="404" fill="#9A3412" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">自动寻源 / 找品</text>
+    <text x="202" y="434" fill="#7C2D12" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600">从竞品、内容和趋势中</text>
+    <text x="202" y="462" fill="#7C2D12" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600">找出可上新的产品方向</text>
+  </g>
+
+  <g>
+    <rect x="478" y="364" width="278" height="116" rx="26" fill="#ECFDF5" stroke="#A7F3D0"/>
+    <text x="508" y="404" fill="#065F46" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">产品设计 / 文案</text>
+    <text x="508" y="434" fill="#064E3B" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600">标题、卖点、详情页、SEO</text>
+    <text x="508" y="462" fill="#064E3B" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600">多语言内容一键生成</text>
+  </g>
+
+  <g>
+    <rect x="784" y="364" width="278" height="116" rx="26" fill="#EFF6FF" stroke="#BFDBFE"/>
+    <text x="814" y="404" fill="#1D4ED8" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">上架 / 运营 / 执行</text>
+    <text x="814" y="434" fill="#1E3A8A" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600">批量上架、改价、同步库存</text>
+    <text x="814" y="462" fill="#1E3A8A" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600">可审核、可留痕、可复盘</text>
+  </g>
+
+  <g>
+    <rect x="1090" y="364" width="280" height="116" rx="26" fill="#111827"/>
+    <text x="1120" y="404" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">店群 / 站群 / IM 统一管理</text>
+    <text x="1120" y="434" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600">一个入口管理多个店铺与渠道</text>
+    <text x="1120" y="462" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600">减少切后台、切账号、切系统</text>
+  </g>
+
+  <path d="M1188 216C1246 184 1304 174 1360 178" stroke="url(#accent)" stroke-width="14" stroke-linecap="round"/>
+  <path d="M1168 244C1230 236 1290 246 1350 270" stroke="url(#accent2)" stroke-width="14" stroke-linecap="round"/>
+  <path d="M1172 280C1234 298 1292 326 1340 366" stroke="url(#accent3)" stroke-width="14" stroke-linecap="round"/>
+
+  <rect x="1388" y="164" width="52" height="52" rx="18" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="1388" y="234" width="52" height="52" rx="18" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="1388" y="304" width="52" height="52" rx="18" fill="#FFFFFF" stroke="#E5E7EB"/>
+
+  <text x="172" y="560" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="22">
+    shop-use.cn
+  </text>
+  <text x="330" y="560" fill="#64748B" font-family="Inter, Arial, sans-serif" font-size="22">
+    电商运营 Agent OS | 私有化部署 | 定制开发
+  </text>
+</svg>
